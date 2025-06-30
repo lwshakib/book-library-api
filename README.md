@@ -1,6 +1,6 @@
 # Book Library API
 
-A full-stack project for managing a digital book library, featuring user authentication, book management, reviews, favorites, and an email notification service. The project is split into two main components:
+A backend project for managing a digital book library, featuring user authentication, book management, reviews, favorites, and an email notification service. The project is split into two main components:
 
 - **Server**: The main backend API (Node.js/Express, MongoDB)
 - **Email Service**: Handles email notifications (Node.js, BullMQ, Nodemailer, Redis)
